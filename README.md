@@ -1,4 +1,4 @@
-# EXTM3U url-tvg =https://raw.githubusercontent.com/dracohe/CARLOS/master/guide_IPTV.xml
+#EXTM3U url-tvg =https://raw.githubusercontent.com/dracohe/COLOR/master/guide_IPTV_COLOR.xml
 #EXTINF:-1 tvg-id="" tvg-name="ES: M+ #0" tvg-logo="https://docdog.top/Logotv/countries/spain/countrypic.png" group-title="SPAIN",ES: M+ #0
 http://boarcage.top:8080/live/61662587132606/5551662587132606/5546.ts
 #EXTINF:-1 tvg-id="" tvg-name="ES: M+ ESTRENOS" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/spain/movistar-estrenos-es.png" group-title="SPAIN",ES: M+ ESTRENOS
